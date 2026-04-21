@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Контакти CleanPro — замовте хімчистку онлайн або зателефонуйте нам. Безкоштовна доставка по Києву.">
+    <meta property="og:title" content="Контакти — CleanPro">
+    <meta property="og:description" content="Зв'яжіться з нами для замовлення хімчистки. Телефон, email, адреса.">
+    <meta property="og:type" content="website">
+    <title>Контакти — CleanPro</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <a href="index.html" class="logo">Clean<span>Pro</span></a>
+            <nav class="nav" id="nav">
+                <a href="index.html">Головна</a>
+                <a href="about.html">Про нас</a>
+                <a href="prices.html">Прайс</a>
+                <a href="blog.html">Блог</a>
+                <a href="contacts.html" class="active">Контакти</a>
+            </nav>
+            <a href="contacts.html" class="btn btn-header">Замовити</a>
+            <button class="burger" id="burger" aria-label="Меню">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-hero">
+            <div class="container">
+                <h1>Контакти</h1>
+                <p>Зв'яжіться з нами для замовлення або консультації</p>
+            </div>
+        </section>
+
+        <section class="contacts-section">
+            <div class="container">
+                <div class="contacts-grid">
+                    <div class="contact-info">
+                        <h2>Наші контакти</h2>
+                        <div class="contact-item">
+                            <h3>Телефон</h3>
+                            <p>+380 (44) 123-45-67</p>
+                            <p>+380 (67) 765-43-21</p>
+                        </div>
+                        <div class="contact-item">
+                            <h3>Email</h3>
+                            <p>info@cleanpro.ua</p>
+                            <p>order@cleanpro.ua</p>
+                        </div>
+                        <div class="contact-item">
+                            <h3>Адреса</h3>
+                            <p>м. Київ, вул. Хрещатик 15</p>
+                            <p>Пн-Сб: 08:00 — 20:00</p>
+                        </div>
+                        <div class="contact-item">
+                            <h3>Доставка</h3>
+                            <p>Безкоштовно при замовленні від 500 грн</p>
+                            <p>Кур'єр приїде за 1-2 години</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-form-wrapper">
+                        <h2>Залиште заявку</h2>
+                        <p>Заповніть форму і ми зв'яжемося з вами протягом 30 хвилин</p>
+                        <form class="contact-form" id="contactForm">
+                            <div class="form-group">
+                                <label for="name">Ваше ім'я *</label>
+                                <input type="text" id="name" name="name" required placeholder="Олександр">
+                            </div>
+                            <div class="form-group">
+                                <label for="phone">Телефон *</label>
+                                <input type="tel" id="phone" name="phone" required placeholder="+380 (__) ___-__-__">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" id="email" name="email" placeholder="example@mail.com">
+                            </div>
+                            <div class="form-group">
+                                <label for="service">Послуга</label>
+                                <select id="service" name="service">
+                                    <option value="">Оберіть послугу</option>
+                                    <option value="clothes">Хімчистка одягу</option>
+                                    <option value="furniture">Чистка меблів</option>
+                                    <option value="carpets">Чистка килимів</option>
+                                    <option value="shoes">Чистка взуття</option>
+                                    <option value="fur">Догляд за кожухами</option>
+                                    <option value="car">Чистка автосалону</option>
+                                    <option value="other">Інше</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="message">Повідомлення</label>
+                                <textarea id="message" name="message" rows="4" placeholder="Опишіть ваше замовлення..."></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Надіслати заявку</button>
+                        </form>
+                        <div class="form-success" id="formSuccess" style="display: none;">
+                            <h3>Дякуємо за заявку!</h3>
+                            <p>Ми зв'яжемося з вами протягом 30 хвилин.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="map-section">
+            <div class="container">
+                <h2>Як нас знайти</h2>
+                <div class="map-placeholder">
+                    <div class="map-frame">
+                        <p>м. Київ, вул. Хрещатик 15</p>
+                        <p>Станція метро "Хрещатик"</p>
+                        <p>Пн-Сб: 08:00 — 20:00</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <a href="index.html" class="logo">Clean<span>Pro</span></a>
+                    <p>Професійна хімчистка з доставкою. Працюємо з 2021 року.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Навігація</h4>
+                    <a href="index.html">Головна</a>
+                    <a href="about.html">Про нас</a>
+                    <a href="prices.html">Прайс</a>
+                    <a href="blog.html">Блог</a>
+                    <a href="contacts.html">Контакти</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Правова інформація</h4>
+                    <a href="privacy.html">Політика конфіденційності</a>
+                    <a href="terms.html">Умови використання</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Контакти</h4>
+                    <p>+380 (44) 123-45-67</p>
+                    <p>info@cleanpro.ua</p>
+                    <p>Київ, вул. Хрещатик 15</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 CleanPro. Всі права захищені.</p>
+            </div>
+        </div>
+    </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="cookie-content">
+            <p>Ми використовуємо cookie для покращення роботи сайту. <a href="privacy.html">Дізнатися більше</a></p>
+            <div class="cookie-buttons">
+                <button class="btn btn-sm" id="cookieAccept">Прийняти</button>
+                <button class="btn btn-sm btn-outline" id="cookieDecline">Тільки необхідні</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
