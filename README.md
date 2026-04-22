@@ -24,19 +24,21 @@ task1-wordpress/
 │   ├── privacy-policy.md    — Privacy Policy
 │   ├── terms.md             — Terms of Use
 │   └── cookie-policy.md     — Cookie Policy
-├── setup-instructions.md    — Покрокова інструкція Namecheap/EasyWP/WordPress
+├── setup-instructions.md    — Покрокова інструкція InfinityFree/WordPress
 └── plugins-list.md          — Перелік плагінів та налаштувань теми Astra
 ```
 
 ### Що потребує ручного виконання
-- Реєстрація акаунту на Namecheap
-- Створення EasyWP хостингу
-- Встановлення WordPress, теми Astra, плагінів
+- Реєстрація акаунту на InfinityFree (без кредитної карти)
+- Створення хостингу та безкоштовного піддомену
+- Встановлення WordPress через Softaculous
+- Встановлення теми Astra, плагінів
 - Заповнення сторінок контентом з .md файлів
 
 ### Інструменти
 - **WordPress** — CMS
 - **Astra** — тема
+- **InfinityFree** — безкоштовний хостинг
 - **CookieYes** — cookie consent
 - **Contact Form 7** — контактна форма
 - **Yoast SEO** — SEO оптимізація
@@ -151,7 +153,8 @@ task3-news/
 | WordPress + Astra   | CMS та тема                          | 1        |
 | CookieYes           | Cookie consent для WordPress         | 1        |
 | Contact Form 7      | Контактна форма для WordPress        | 1        |
-| Namecheap / EasyWP  | Хостинг                              | 1        |
+| Namecheap / EasyWP  | Хостинг (альтернатива)               | 1        |
+| InfinityFree         | Безкоштовний хостинг (рекомендовано) | 1        |
 
 ---
 
