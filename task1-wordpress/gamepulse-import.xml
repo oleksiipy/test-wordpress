@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+    <title>GamePulse</title>
+    <link>https://gamepulse.example.com</link>
+    <description>Світ ігор у твоєму ритмі</description>
+    <language>uk</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://gamepulse.example.com</wp:base_site_url>
+    <wp:base_blog_url>https://gamepulse.example.com</wp:base_blog_url>
+
+    <wp:author>
+        <wp:author_login>admin</wp:author_login>
+        <wp:author_email>admin@gamepulse.com</wp:author_email>
+        <wp:author_display_name>GamePulse Admin</wp:author_display_name>
+        <wp:author_first_name>GamePulse</wp:author_first_name>
+        <wp:author_last_name>Admin</wp:author_last_name>
+    </wp:author>
+
+    <wp:category>
+        <wp:term_id>1</wp:term_id>
+        <wp:category_nicename>novyny</wp:category_nicename>
+        <wp:category_parent></wp:category_parent>
+        <wp:cat_name>Новини</wp:cat_name>
+    </wp:category>
+
+    <wp:category>
+        <wp:term_id>2</wp:term_id>
+        <wp:category_nicename>haidy</wp:category_nicename>
+        <wp:category_parent></wp:category_parent>
+        <wp:cat_name>Гайди</wp:cat_name>
+    </wp:category>
+
+    <wp:category>
+        <wp:term_id>3</wp:term_id>
+        <wp:category_nicename>esports</wp:category_nicename>
+        <wp:category_parent></wp:category_parent>
+        <wp:cat_name>Esports</wp:cat_name>
+    </wp:category>
+
+    <!-- PAGE: Головна -->
+    <item>
+        <title>GamePulse</title>
+        <link>https://gamepulse.example.com/home/</link>
+        <dc:creator>admin</dc:creator>
+        <guid isPermaLink="false">https://gamepulse.example.com/?page_id=1</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<h2>Світ ігор у твоєму ритмі</h2>
+<p>GamePulse — незалежний геймінг-медіа-ресурс. Новини, огляди, гайди та тренді геймінг-індустрії. Усе, що потрібно геймеру — в одному місці.</p>
+
+<h2>Останні новини</h2>
+<ul>
+<li><strong>Top 10 Gaming Trends 2026</strong> — Що чекає на геймерів цього року? Від VR-революції до нейроінтерфейсів.</li>
+<li><strong>Best PC Builds Under $1000</strong> — Збираємо потужний ігровий ПК за розумний бюджет.</li>
+<li><strong>Esports Revolution</strong> — Як кіберспорт змінює розваги та кар'єру мільйонів.</li>
+</ul>
+
+<h2>Категорії</h2>
+<ul>
+<li><strong>Новини</strong> — Актуальні події геймінг-індустрії</li>
+<li><strong>Огляди</strong> — Детальні рев'ю нових ігор та заліза</li>
+<li><strong>Гайди</strong> — Поради, прохождення, білди</li>
+<li><strong>Esports</strong> — Турніри, команди, результати</li>
+</ul>
+
+<h2>Про нас</h2>
+<p>GamePulse — незалежний геймінг-медіа-ресурс. Ми пишемо про ігри чесно, без спойлерів у заголовках та без реклами під видом контенту.</p>
+
+<h2>Не пропусти жодної новини</h2>
+<p>Підпишись на розсилку GamePulse — найважливіші новини геймінгу щотижня у твоєму inbox.</p>
+]]></content:encoded>
+        <wp:post_date>2026-04-20 10:00:00</wp:post_date>
+        <wp:post_date_gmt>2026-04-20 07:00:00</wp:post_date_gmt>
+        <wp:post_modified>2026-04-20 10:00:00</wp:post_modified>
+        <wp:post_modified_gmt>2026-04-20 07:00:00</wp:post_modified_gmt>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_name>home</wp:post_name>
+    </item>
+
+    <!-- PAGE: Про нас -->
+    <item>
+        <title>Про нас</title>
+        <link>https://gamepulse.example.com/about/</link>
+        <dc:creator>admin</dc:creator>
+        <guid isPermaLink="false">https://gamepulse.example.com/?page_id=2</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<h2>Хто ми</h2>
+<p>GamePulse — це незалежний медіа-ресурс про комп'ютерні ігри та геймінг-індустрію. Ми створені геймерами для геймерів.</p>
+<p>Наша місія — надавати чесний, актуальний та корисний контент про світ відеоігор. Ми не пишеме клікбейт, не приховуємо спонсорські матеріали та не копіюємо чужі тексти.</p>
+
+<h2>Наша команда</h2>
+<p><strong>Олексій Петренко</strong> — Founder &amp; Editor-in-Chief<br>
+Геймер з 15-річним досвідом. Колишній ігровий журналіст, автор 500+ статей.</p>
+
+<p><strong>Марія Коваленко</strong> — Lead Writer<br>
+Спеціалістка з RPG та інди-ігор. Пише огляди, які читають від початку до кінця.</p>
+
+<p><strong>Дмитро Шевченко</strong> — Hardware Editor<br>
+Знає все про відеокарти, процесори та зборку ПК. Його гайди економлять тисячі гривень.</p>
+
+<p><strong>Анна Литвиненко</strong> — Esports Correspondent<br>
+Слідкує за турнірами та командами. Пише про CS2, Dota 2, Valorant та інші дисципліни.</p>
+
+<h2>Наші цінності</h2>
+<ul>
+<li><strong>Чесність</strong> — ми не продаємо оцінки та не пишеме на замовлення</li>
+<li><strong>Актуальність</strong> — новини публікуються вчасно, без затримок</li>
+<li><strong>Якість</strong> — кожна стаття проходить редактуру та перевірку фактів</li>
+<li><strong>Повага</strong> — ми поважаємо наших читачів та їхній час</li>
+</ul>
+
+<h2>Контакти</h2>
+<p>Маєте питання, пропозиції чи хочете стати автором?<br>
+Пишіть: <strong>hello@gamepulse.com</strong></p>
+<p>Приєднуйтесь до нас у соцмережах:</p>
+<ul>
+<li>Twitter/X: @gamepulse</li>
+<li>Telegram: t.me/gamepulse</li>
+<li>Discord: GamePulse Community</li>
+</ul>
+]]></content:encoded>
+        <wp:post_date>2026-04-20 10:00:00</wp:post_date>
+        <wp:post_date_gmt>2026-04-20 07:00:00</wp:post_date_gmt>
+        <wp:post_modified>2026-04-20 10:00:00</wp:post_modified>
+        <wp:post_modified_gmt>2026-04-20 07:00:00</wp:post_modified_gmt>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_name>about</wp:post_name>
+    </item>
+
+    <!-- PAGE: Контакти -->
+    <item>
+        <title>Контакти</title>
+        <link>https://gamepulse.example.com/contacts/</link>
+        <dc:creator>admin</dc:creator>
+        <guid isPermaLink="false">https://gamepulse.example.com/?page_id=3</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<h2>Зв'яжіться з нами</h2>
+<p>Маєте питання, пропозиції або хочете стати автором GamePulse? Ми завжди відкриті до спілкування.</p>
+
+<h3>Прямі контакти</h3>
+<ul>
+<li><strong>Загальні питання:</strong> hello@gamepulse.com</li>
+<li><strong>Реклама та співпраця:</strong> ads@gamepulse.com</li>
+<li><strong>Редакція:</strong> editor@gamepulse.com</li>
+</ul>
+
+<h3>Соціальні мережі</h3>
+<ul>
+<li>Twitter/X: @gamepulse</li>
+<li>Telegram: t.me/gamepulse</li>
+<li>Discord: GamePulse Community</li>
+<li>YouTube: GamePulse TV</li>
+</ul>
+
+<h3>Адреса</h3>
+<p>GamePulse Media<br>
+вул. Хрещатик 22, офіс 401<br>
+Київ, 01001<br>
+Україна</p>
+
+<p><strong>Години роботи:</strong> Пн-Пт 10:00 — 19:00 EET</p>
+
+<h3>Контактна форма</h3>
+<p>[contact-form-7]</p>
+]]></content:encoded>
+        <wp:post_date>2026-04-20 10:00:00</wp:post_date>
+        <wp:post_date_gmt>2026-04-20 07:00:00</wp:post_date_gmt>
+        <wp:post_modified>2026-04-20 10:00:00</wp:post_modified>
+        <wp:post_modified_gmt>2026-04-20 07:00:00</wp:post_modified_gmt>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_name>contacts</wp:post_name>
+    </item>
+
+    <!-- PAGE: Privacy Policy -->
+    <item>
+        <title>Privacy Policy</title>
+        <link>https://gamepulse.example.com/privacy-policy/</link>
+        <dc:creator>admin</dc:creator>
+        <guid isPermaLink="false">https://gamepulse.example.com/?page_id=4</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<p><em>Останнє оновлення: 15 квітня 2026</em></p>
+
+<h2>1. Вступ</h2>
+<p>GamePulse ("ми", "наш", "нас") поважає вашу конфіденційність та зобов'язується захищати ваші персональні дані. Ця Політика конфіденційності описує, як ми збираємо, використовуємо та захищаємо вашу інформацію при використанні нашого сайту gamepulse.com ("Сайт").</p>
+
+<h2>2. Які дані ми збираємо</h2>
+<h3>Автоматично збираються:</h3>
+<ul>
+<li>IP-адреса</li>
+<li>Тип браузера та пристрою</li>
+<li>Сторінки, які ви відвідуєте</li>
+<li>Час та тривалість візиту</li>
+<li>Дані cookie</li>
+</ul>
+
+<h3>Надаються вами:</h3>
+<ul>
+<li>Ім'я та email (при підписці на розсилку)</li>
+<li>Дані контактної форми</li>
+<li>Коментарі</li>
+</ul>
+
+<h2>3. Як ми використовуємо дані</h2>
+<p>Ми використовуємо зібрані дані для:</p>
+<ul>
+<li>Надання та покращення наших сервісів</li>
+<li>Надсилання новинних розсилок (за вашою згодою)</li>
+<li>Відповіді на ваші запитання</li>
+<li>Аналізу відвідуваності сайту</li>
+<li>Відображення релевантної реклами</li>
+</ul>
+
+<h2>4. Cookie</h2>
+<p>Ми використовуємо cookie для:</p>
+<ul>
+<li>Запам'ятовування ваших налаштувань</li>
+<li>Аналізу трафіку (Google Analytics)</li>
+<li>Показу персоналізованої реклами</li>
+</ul>
+<p>Ви можете керувати cookie через налаштування браузера.</p>
+
+<h2>5. Передача даних третім особам</h2>
+<p>Ми не продаємо ваші персональні дані. Ми можемо передавати дані:</p>
+<ul>
+<li>Хостинг-провайдерам (для роботи сайту)</li>
+<li>Аналітичним сервісам (Google Analytics)</li>
+<li>Рекламним платформам (Google AdSense) — лише агреговані дані</li>
+</ul>
+
+<h2>6. Ваші права</h2>
+<p>Ви маєте право:</p>
+<ul>
+<li>Дізнатися, які дані ми зберігаємо</li>
+<li>Вимагати видалення ваших даних</li>
+<li>Відкликати згоду на обробку даних</li>
+<li>Подати скаргу до уповноваженого органу</li>
+</ul>
+
+<h2>7. Захист даних</h2>
+<p>Ми застосовуємо технічні та організаційні заходи для захисту ваших даних від несанкціонованого доступу, зміни або видалення.</p>
+
+<h2>8. Зміни до політики</h2>
+<p>Ми можемо оновлювати цю політику. Про істотні зміни буде повідомлено на сайті.</p>
+
+<h2>9. Контакти</h2>
+<p>З питань конфіденційності пишіть: <strong>privacy@gamepulse.com</strong></p>
+]]></content:encoded>
+        <wp:post_date>2026-04-20 10:00:00</wp:post_date>
+        <wp:post_date_gmt>2026-04-20 07:00:00</wp:post_date_gmt>
+        <wp:post_modified>2026-04-20 10:00:00</wp:post_modified>
+        <wp:post_modified_gmt>2026-04-20 07:00:00</wp:post_modified_gmt>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_name>privacy-policy</wp:post_name>
+    </item>
+
+    <!-- PAGE: Terms of Use -->
+    <item>
+        <title>Terms of Use</title>
+        <link>https://gamepulse.example.com/terms/</link>
+        <dc:creator>admin</dc:creator>
+        <guid isPermaLink="false">https://gamepulse.example.com/?page_id=5</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<p><em>Останнє оновлення: 15 квітня 2026</em></p>
+
+<h2>1. Прийняття умов</h2>
+<p>Використовуючи сайт GamePulse (gamepulse.com), ви погоджуєтесь з цими Умовами використання. Якщо ви не згодні, будь ласка, не використовуйте наш сайт.</p>
+
+<h2>2. Опис сервісів</h2>
+<p>GamePulse надає інформаційний контент про комп'ютерні ігри та геймінг-індустрію, включно з:</p>
+<ul>
+<li>Новинами та оглядами</li>
+<li>Гайдами та порадами</li>
+<li>Аналітичними матеріалами</li>
+<li>Даними про esports</li>
+</ul>
+
+<h2>3. Інтелектуальна власність</h2>
+<p>Весь контент сайту (тексти, зображення, дизайн) є власністю GamePulse або наших партнерів. Використання можливе лише з письмової згоди.</p>
+<p><strong>Дозволяється:</strong></p>
+<ul>
+<li>Цитування до 200 символів з посиланням на джерело</li>
+<li>Шеринг у соцмережах через кнопки на сайті</li>
+</ul>
+<p><strong>Забороняється:</strong></p>
+<ul>
+<li>Повне копіювання статей</li>
+<li>Використання матеріалів у комерційних цілях без дозволу</li>
+<li>Зміна та поширення зміненого контенту</li>
+</ul>
+
+<h2>4. Коментарі та користувацький контент</h2>
+<p>Ви несете відповідальність за свої коментарі. Заборонено:</p>
+<ul>
+<li>Спам та реклама</li>
+<li>Образи та дискримінація</li>
+<li>Неправдиві твердження</li>
+<li>Порушення авторських прав</li>
+</ul>
+<p>Ми залишаємо за собою право видаляти коментарі без пояснення причин.</p>
+
+<h2>5. Відповідальність</h2>
+<p>GamePulse не несе відповідальності за:</p>
+<ul>
+<li>Точність інформації у користувацьких коментарях</li>
+<li>Збитки, пов'язані з використанням інформації сайту</li>
+<li>Перебої в роботі сервісу</li>
+<li>Зміст зовнішніх посилань</li>
+</ul>
+
+<h2>6. Реклама</h2>
+<p>Рекламні матеріали чітко позначені. Ми не гарантуємо якість рекламованих товарів та послуг.</p>
+
+<h2>7. Зміни умов</h2>
+<p>Ми залишаємо за собою право змінювати ці умови. Продовження використання сайту після змін означає вашу згоду.</p>
+
+<h2>8. Застосовне право</h2>
+<p>Ці умови регулюються законодавством України.</p>
+
+<h2>9. Контакти</h2>
+<p>З питань щодо умов використання пишіть: <strong>legal@gamepulse.com</strong></p>
+]]></content:encoded>
+        <wp:post_date>2026-04-20 10:00:00</wp:post_date>
+        <wp:post_date_gmt>2026-04-20 07:00:00</wp:post_date_gmt>
+        <wp:post_modified>2026-04-20 10:00:00</wp:post_modified>
+        <wp:post_modified_gmt>2026-04-20 07:00:00</wp:post_modified_gmt>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_name>terms</wp:post_name>
+    </item>
+
+    <!-- PAGE: Cookie Policy -->
+    <item>
+        <title>Cookie Policy</title>
+        <link>https://gamepulse.example.com/cookie-policy/</link>
+        <dc:creator>admin</dc:creator>
+        <guid isPermaLink="false">https://gamepulse.example.com/?page_id=6</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<p><em>Останнє оновлення: 15 квітня 2026</em></p>
+
+<h2>Що таке Cookie</h2>
+<p>Cookie — невеликі текстові файли, які зберігаються на вашому пристрої при відвідуванні сайту. Відповідно до законодавства, ми повідомляємо про використання cookie.</p>
+
+<h2>Типи cookie, які ми використовуємо</h2>
+
+<h3>Необхідні cookie</h3>
+<p>Ці cookie потрібні для роботи сайту. Без них сайт не функціонуватиме коректно.</p>
+<ul>
+<li>Сесійні cookie</li>
+<li>Cookie безпеки</li>
+<li>Cookie налаштувань</li>
+</ul>
+
+<h3>Аналітичні cookie</h3>
+<p>Допомагають нам розуміти, як відвідувачі взаємодіють із сайтом.</p>
+<ul>
+<li>Google Analytics (_ga, _gid)</li>
+<li>Дані про відвідування сторінок</li>
+</ul>
+
+<h3>Рекламні cookie</h3>
+<p>Використовуються для показу релевантної реклами.</p>
+<ul>
+<li>Google AdSense</li>
+<li>Соціальні мережі (Facebook Pixel)</li>
+</ul>
+
+<h2>Як керувати cookie</h2>
+<p>Ви можете:</p>
+<ul>
+<li>Блокувати cookie у налаштуваннях браузера</li>
+<li>Видалити існуючі cookie</li>
+<li>Встановити налаштування для окремих сайтів</li>
+</ul>
+<p><strong>Увага:</strong> Блокування cookie може вплинути на функціональність сайту.</p>
+
+<h2>Згода</h2>
+<p>При першому відвідуванні сайту ми показуємо банер cookie. Натискаючи "Прийняти", ви даєте згоду на використання всіх типів cookie. Ви можете змінити свій вибір у будь-який час.</p>
+
+<h2>Зміни</h2>
+<p>Ми можемо оновлювати цю політику. Про зміни буде повідомлено на сайті.</p>
+
+<h2>Контакти</h2>
+<p>З питань щодо cookie пишіть: <strong>privacy@gamepulse.com</strong></p>
+]]></content:encoded>
+        <wp:post_date>2026-04-20 10:00:00</wp:post_date>
+        <wp:post_date_gmt>2026-04-20 07:00:00</wp:post_date_gmt>
+        <wp:post_modified>2026-04-20 10:00:00</wp:post_modified>
+        <wp:post_modified_gmt>2026-04-20 07:00:00</wp:post_modified_gmt>
+        <wp:status>publish</wp:status>
+        <wp:post_type>page</wp:post_type>
+        <wp:post_name>cookie-policy</wp:post_name>
+    </item>
+
+    <!-- POST: Top 10 Gaming Trends 2026 -->
+    <item>
+        <title>Top 10 Gaming Trends 2026: Що чекає на геймерів цього року</title>
+        <link>https://gamepulse.example.com/top-10-gaming-trends-2026/</link>
+        <dc:creator>admin</dc:creator>
+        <guid isPermaLink="false">https://gamepulse.example.com/?p=101</guid>
+        <description>Геймінг-індустрія не стоїть на місці. 2026 рік обіцяє бути одним із найцікавіших за останнє десятиліття.</description>
+        <content:encoded><![CDATA[
+<p><em>Опубліковано: 15 квітня 2026 | Автор: Олексій Петренко</em></p>
+
+<p>Геймінг-індустрія не стоїть на місці. 2026 рік обіцяє бути одним із найцікавіших за останнє десятиліття. Ми проаналізували тисячі новин, промо-матеріалів та трендів, щоб виділити 10 найважливіших напрямків цього року.</p>
+
+<h2>1. VR-революція стає масовою</h2>
+<p>Якщо раніше VR було екзотикою, то 2026 — рік, коли віртуальна реальність стає доступною кожному. Нові шоломи від Meta та Sony коштують менше $300, а ігрові бібліотеки налічують тисячі тайтлів.</p>
+<p><strong>Що спробувати:</strong> Half-Life 3: Alyx Chronicles, Beat Saber Universe, VRChat 2.0</p>
+
+<h2>2. Нейроінтерфейси в іграх</h2>
+<p>Перші ігри з підтримкою нейроінтерфейсів вже в Turnbull Beta. Компанії Neuralink та OpenBCI представляють девайси, що дозволяють керувати ігровими персонажами силою думки.</p>
+
+<h2>3. Процедурна генерація на базі AI</h2>
+<p>Більше не потрібно роками чекати на нові контент-паки. AI-генеровані квести, локації та NPC стають нормою. Ігри на кшталт No Man's Sky 2 доводять, що процедурний контент може бути не менш захопливим за руками створений.</p>
+
+<h2>4. Cloud Gaming — новий стандарт</h2>
+<p>Сервіси хмарного геймінгу нарешті забезпечують стабільний 4K/120fps. Google Stadia 2, Xbox Cloud та GeForce Now пропонують повноцінний ігровий досвід без потужного заліза.</p>
+
+<h2>5. Ренесанс інди-ігор</h2>
+<p>2026 — рекордний рік для незалежних студій. Інди-тайтли як Hollow Knight: Silksong та Hades II отримують номінації на Game of the Year.</p>
+
+<h2>6. Esports стає мейнстримом</h2>
+<p>Кіберспортівні турніри збирають мільйони глядачів. Призові фонди перевищують $100 млн, а гравці стають зірками світового масштабу.</p>
+
+<h2>7. Cross-platform — стандарт, не привілей</h2>
+<p>Грати з друзями незалежно від платформи — нова норма. Всі великі тайтли підтримують кросплей: від Fortnite до Call of Duty.</p>
+
+<h2>8. Ретро-ігри повертаються</h2>
+<p>Remake та remaster класики — один із головних трендів. Final Fantasy IX Remake, Chrono Trigger HD та Metal Gear Solid Delta показують, що ностальгія продається.</p>
+
+<h2>9. Ігровий стрімінг як соціальна мережа</h2>
+<p>Платформи типу Twitch та YouTube Gaming стають повноцінними соцмережами з короткими відео, спільнотами та монетизацією.</p>
+
+<h2>10. Зелений геймінг</h2>
+<p>Екологічна відповідальність доходить до індустрії. Студії оптимізують сервери, зменшують енергоспоживання та вкладаються в сталеві ініціативи.</p>
+
+<p><strong>Теги:</strong> gaming trends 2026, VR, cloud gaming, esports, indie games<br>
+<strong>Категорія:</strong> Новини</p>
+]]></content:encoded>
+        <wp:post_date>2026-04-15 10:00:00</wp:post_date>
+        <wp:post_date_gmt>2026-04-15 07:00:00</wp:post_date_gmt>
+        <wp:post_modified>2026-04-15 10:00:00</wp:post_modified>
+        <wp:post_modified_gmt>2026-04-15 07:00:00</wp:post_modified_gmt>
+        <wp:status>publish</wp:status>
+        <wp:post_type>post</wp:post_type>
+        <wp:post_name>top-10-gaming-trends-2026</wp:post_name>
+        <category domain="category" nicename="novyny"><![CDATA[Новини]]></category>
+        <wp:postmeta>
+            <wp:meta_key>_yoast_wpseo_title</wp:meta_key>
+            <wp:meta_value><![CDATA[Top 10 Gaming Trends 2026 — GamePulse]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- POST: Best PC Builds Under $1000 -->
+    <item>
+        <title>Best PC Builds Under $1000: Збираємо потужний ігровий ПК</title>
+        <link>https://gamepulse.example.com/best-pc-builds-under-1000/</link>
+        <dc:creator>admin</dc:creator>
+        <guid isPermaLink="false">https://gamepulse.example.com/?p=102</guid>
+        <description>Не потрібно витрачати $3000, щоб грати на ультра-налаштуваннях. Ми зібрали три конфігурації за $1000 або менше.</description>
+        <content:encoded><![CDATA[
+<p><em>Опубліковано: 10 квітня 2026 | Автор: Дмитро Шевченко</em></p>
+
+<p>Не потрібно витрачати $3000, щоб грати на ультра-налаштуваннях. Ми зібрали три конфігурації, які дають максимум продуктивності за $1000 або менше.</p>
+
+<h2>Конфігурація "Старт" — $600</h2>
+<p>Ідеальний варіант для 1080p геймінгу. Ця зборка потягне більшість сучасних ігор на високих налаштуваннях стабільні 60+ FPS.</p>
+
+<table>
+<thead>
+<tr><th>Компонент</th><th>Модель</th><th>Ціна</th></tr>
+</thead>
+<tbody>
+<tr><td>Процесор</td><td>AMD Ryzen 5 7600</td><td>$160</td></tr>
+<tr><td>Відеокарта</td><td>RX 7600 XT</td><td>$230</td></tr>
+<tr><td>Оперативна пам'ять</td><td>16 GB DDR5 5600</td><td>$50</td></tr>
+<tr><td>Накопичувач</td><td>1 TB NVMe SSD</td><td>$60</td></tr>
+<tr><td>Материнська плата</td><td>B650M</td><td>$90</td></tr>
+<tr><td>Блок живлення</td><td>600W 80+ Bronze</td><td>$50</td></tr>
+<tr><td>Корпус</td><td>з вентиляторами</td><td>$60</td></tr>
+</tbody>
+</table>
+
+<p><strong>Результат:</strong> 1080p Ultra @ 60-80 FPS у більшості AAA-ігор</p>
+
+<h2>Конфігурація "Оптималь" — $800</h2>
+<p>Золота серединка — 1080p максимум або 1440p середні налаштування.</p>
+
+<table>
+<thead>
+<tr><th>Компонент</th><th>Модель</th><th>Ціна</th></tr>
+</thead>
+<tbody>
+<tr><td>Процесор</td><td>AMD Ryzen 5 7600X</td><td>$190</td></tr>
+<tr><td>Відеокарта</td><td>RTX 4060 Ti</td><td>$330</td></tr>
+<tr><td>Оперативна пам'ять</td><td>16 GB DDR5 6000</td><td>$55</td></tr>
+<tr><td>Накопичувач</td><td>1 TB NVMe SSD Gen4</td><td>$70</td></tr>
+<tr><td>Материнська плата</td><td>B650 ATX</td><td>$110</td></tr>
+<tr><td>Блок живлення</td><td>650W 80+ Gold</td><td>$70</td></tr>
+<tr><td>Корпус</td><td>з вентиляторами</td><td>$75</td></tr>
+</tbody>
+</table>
+
+<p><strong>Результат:</strong> 1080p Ultra @ 100+ FPS або 1440p Medium @ 60 FPS</p>
+
+<h2>Конфігурація "Потужність" — $1000</h2>
+<p>Максимальна продуктивність за розумні гроші. 1440p геймінг на високих налаштуваннях.</p>
+
+<table>
+<thead>
+<tr><th>Компонент</th><th>Модель</th><th>Ціна</th></tr>
+</thead>
+<tbody>
+<tr><td>Процесор</td><td>Intel Core i5-14600K</td><td>$230</td></tr>
+<tr><td>Відеокарта</td><td>RTX 4070 Super</td><td>$420</td></tr>
+<tr><td>Оперативна пам'ять</td><td>32 GB DDR5 6000</td><td>$80</td></tr>
+<tr><td>Накопичувач</td><td>1 TB NVMe SSD Gen4</td><td>$70</td></tr>
+<tr><td>Материнська плата</td><td>Z790 DDR5</td><td>$130</td></tr>
+<tr><td>Блок живлення</td><td>750W 80+ Gold</td><td>$90</td></tr>
+<tr><td>Корпус</td><td>з вентиляторами</td><td>$80</td></tr>
+</tbody>
+</table>
+
+<p><strong>Результат:</strong> 1440p High @ 80-100 FPS у більшості AAA-ігор</p>
+
+<h2>Поради для економії</h2>
+<ol>
+<li><strong>Моніторьте знижки</strong> — на Amazon, Newegg та локальних магазинах регулярно бувають знижки 15-30%</li>
+<li><strong>Купуйте б/в відеокарту</strong> — RTX 3070 б/в за $200 — чудовий вибір</li>
+<li><strong>Не економте на БЖ</strong> — дешевий блок живлення може спалити всю систему</li>
+<li><strong>16 GB RAM вистачить</strong> — 32 GB потрібно лише для стрімінгу та роботи</li>
+<li><strong>SSD обов'язковий</strong> — HDD для ігор у 2026 — це архаїзм</li>
+</ol>
+
+<p><strong>Теги:</strong> PC build, budget gaming, hardware, Ryzen, RTX<br>
+<strong>Категорія:</strong> Гайди</p>
+]]></content:encoded>
+        <wp:post_date>2026-04-10 10:00:00</wp:post_date>
+        <wp:post_date_gmt>2026-04-10 07:00:00</wp:post_date_gmt>
+        <wp:post_modified>2026-04-10 10:00:00</wp:post_modified>
+        <wp:post_modified_gmt>2026-04-10 07:00:00</wp:post_modified_gmt>
+        <wp:status>publish</wp:status>
+        <wp:post_type>post</wp:post_type>
+        <wp:post_name>best-pc-builds-under-1000</wp:post_name>
+        <category domain="category" nicename="haidy"><![CDATA[Гайди]]></category>
+    </item>
+
+    <!-- POST: Esports Revolution -->
+    <item>
+        <title>Esports Revolution: Як кіберспорт змінює розваги та кар'єру мільйонів</title>
+        <link>https://gamepulse.example.com/esports-revolution/</link>
+        <dc:creator>admin</dc:creator>
+        <guid isPermaLink="false">https://gamepulse.example.com/?p=103</guid>
+        <description>Кіберспорт більше не є нішевим хобі. Це глобальна індустрія з трильйонними оборотами.</description>
+        <content:encoded><![CDATA[
+<p><em>Опубліковано: 5 квітня 2026 | Автор: Анна Литвиненко</em></p>
+
+<p>Кіберспорт більше не є нішевим хобі. Це глобальна індустрія з трильйонними оборотами, мільйонними призовими фондами та мільярдними аудиторіями. 2026 року esports перевершив традиційний спорт за глядацькою аудиторією у віковій групі 18-34.</p>
+
+<h2>Новий вид спорту для нового покоління</h2>
+<p>Згідно з доповіддю Newzoo, глобальна аудиторія кіберспорту перевищила <strong>1.2 млрд глядачів</strong> у 2025 році. Це означає, що кожен шостий житель планети слідкує за змаганнями з відеоігор.</p>
+
+<p>Найпопулярніші дисципліни:</p>
+<ul>
+<li><strong>Counter-Strike 2</strong> — 350 млн глядачів</li>
+<li><strong>League of Legends</strong> — 280 млн глядачів</li>
+<li><strong>Dota 2</strong> — 200 млн глядачів</li>
+<li><strong>Valorant</strong> — 180 млн глядачів</li>
+<li><strong>Fortnite</strong> — 150 млн глядачів</li>
+</ul>
+
+<h2>Призові фонди: від мільйонів до сотень мільйонів</h2>
+<p>The International 2025 (Dota 2) встановив новий рекорд — <strong>призовий фонд $120 млн</strong>. Для порівняння: призовий фонд Супербоулу складає $15 млн.</p>
+
+<p>Топ-5 найбільших призових фондів 2025:</p>
+<ol>
+<li>The International (Dota 2) — $120M</li>
+<li>Worlds (League of Legends) — $85M</li>
+<li>Valorant Champions — $50M</li>
+<li>CS2 Major — $40M</li>
+<li>Fortnite Championship Series — $35M</li>
+</ol>
+
+<h2>Кар'єра в esports: не лише гравці</h2>
+<p>Кіберспорт створює робочі місця далеко за межами ігрового поля:</p>
+<ul>
+<li><strong>Тренери та аналітики</strong> — середня зарплата $80K-150K/рік</li>
+<li><strong>Коментатори (кастери)</strong> — зірки з мільйонними підписками</li>
+<li><strong>Менеджери команд</strong> — організація турнірів та логістики</li>
+<li><strong>Медійники</strong> — стрімери, журналісти, контент-кріейтери</li>
+<li><strong>Технічні спеціалісти</strong> — від інженерів до дата-саєнтістів</li>
+</ul>
+
+<h2>Університети та освіта</h2>
+<p>Більше 200 університетів світу пропонують програми з esports-менеджменту. Стипендії для гравців досягають $50,000 на рік.</p>
+
+<h2>Визнання на державному рівні</h2>
+<p>У 2025 році <strong>12 країн</strong> офіційно визнали кіберспорт видом спорту. Це відкриває двері для віз для гравців, державного фінансування та олімпійського визнання.</p>
+
+<h2>Що далі?</h2>
+<p>Експерти прогнозують, що до 2028 року:</p>
+<ul>
+<li>Призові фонди досягнуть $500M на головних турнірах</li>
+<li>Кіберспорт буде включено до Олімпійських ігор</li>
+<li>Esports-освіта стане частиною шкільних програм</li>
+<li>Віртуальні турніри у VR стануть новим стандартом</li>
+</ul>
+
+<p><strong>Теги:</strong> esports, CS2, Dota 2, League of Legends, career<br>
+<strong>Категорія:</strong> Esports</p>
+]]></content:encoded>
+        <wp:post_date>2026-04-05 10:00:00</wp:post_date>
+        <wp:post_date_gmt>2026-04-05 07:00:00</wp:post_date_gmt>
+        <wp:post_modified>2026-04-05 10:00:00</wp:post_modified>
+        <wp:post_modified_gmt>2026-04-05 07:00:00</wp:post_modified_gmt>
+        <wp:status>publish</wp:status>
+        <wp:post_type>post</wp:post_type>
+        <wp:post_name>esports-revolution</wp:post_name>
+        <category domain="category" nicename="esports"><![CDATA[Esports]]></category>
+    </item>
+
+</channel>
+</rss>
